@@ -13,6 +13,7 @@ let mod = 24%5;
 let num3=24;
 let num4= 5;
 let arr =[2,5 ,8,6,9,10];
+
 function  maxi (arr) {
   let max=20;
  for(i=0; i<arr.length; i++){
@@ -21,6 +22,6 @@ function  maxi (arr) {
 }
 return 20;
 }
-
+let max = maxi(arr);
 
 // function 
