@@ -1,5 +1,7 @@
 
 let random = Math.floor(Math.random() * 16) + 5;
-let multiply = math.multiply  (62 , 1);
+let num1=1;
+let num2= 62;
+let multiply = math.multiply(num1, num2);
 
 
