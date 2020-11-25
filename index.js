@@ -14,14 +14,13 @@ let num3=24;
 let num4= 5;
 let arr =[2,5 ,8,6,9,20];
 
-function  maxi (arr) {
-  let max=0;
- for(i=0; i<arr.length; i++){
- if(max<arr[i])
-max=arr[i];
- }
-return max;
-}
-let max = maxi(arr);
+// function  maxi (arr) {
+//   let max=0;
+// for(i=0; i<arr.length; i++){
+// if(max<arr[i])
+// max=arr[i];
+// }
+// return max;
+// }
+let max = math.max(2,5,9,20,19);
 
-// function 
