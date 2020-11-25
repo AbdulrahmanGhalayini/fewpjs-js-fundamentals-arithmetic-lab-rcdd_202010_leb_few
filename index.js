@@ -13,7 +13,7 @@ let mod = mode(num3, num4);
 let num3=24;
 let num4= 5;
 function  mode (num3 , num4) {
-  if(num1%num2==4)
+  if(num3%num4==4)
   return 4;
   return false;
 }
