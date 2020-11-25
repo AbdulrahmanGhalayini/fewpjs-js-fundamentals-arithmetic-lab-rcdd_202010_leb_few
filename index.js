@@ -8,5 +8,11 @@ function  mul (num1 , num2) {
   return false;
 }
 let multiply = mul(num1, num2);
+let mod = mode(num3, num4);
 
 
+function  mode (num3 , num4) {
+  if(num1%num2==4)
+  return 4;
+  return false;
+}
