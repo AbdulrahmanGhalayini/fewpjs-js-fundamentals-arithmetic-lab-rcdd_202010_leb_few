@@ -19,4 +19,4 @@ function  mode (num3 , num4) {
 }
 
 
-function 
+// function 
