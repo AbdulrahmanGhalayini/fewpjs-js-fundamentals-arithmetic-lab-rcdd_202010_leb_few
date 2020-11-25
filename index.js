@@ -12,10 +12,14 @@ let mod = 24%5;
 
 let num3=24;
 let num4= 5;
-function  mode (num3 , num4) {
-  if(num3%num4==4)
-  return 4;
-  return false;
+let arr =[2,5 ,8,6,9,10];
+function  maxi (arr) {
+  let max=20;
+ for(i=0; i<arr.length; i++){
+ if(arr[i]>max)
+ return false;
+}
+return 20;
 }
 
 
