@@ -23,4 +23,4 @@ let arr =[2,5 ,8,6,9,20];
 // return max;
 // }
 let max = math.max(2,5,9,20,19);
-
+console.log(max);
