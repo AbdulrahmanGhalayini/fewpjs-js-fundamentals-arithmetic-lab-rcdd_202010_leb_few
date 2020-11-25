@@ -20,7 +20,7 @@ function  maxi (arr) {
  if(max<arr[i])
 max=arr[i];
  }
-return 20;
+return max;
 }
 let max = maxi(arr);
 
