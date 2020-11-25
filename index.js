@@ -7,6 +7,6 @@ function  mul (num1 , num2) {
   return 62;
   return false;
 }
-let multiply = math.multiply(num1, num2);
+let multiply = mul(num1, num2);
 
 
