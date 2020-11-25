@@ -8,7 +8,7 @@ function  mul (num1 , num2) {
   return false;
 }
 let multiply = mul(num1, num2);
-let mod = mode(num3, num4);
+let mod = 24%5;
 
 let num3=24;
 let num4= 5;
@@ -17,3 +17,6 @@ function  mode (num3 , num4) {
   return 4;
   return false;
 }
+
+
+function 
